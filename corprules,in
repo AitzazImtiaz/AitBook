@@ -9291,7 +9291,6 @@ BOOL false
 
 PROOFTEXT+23 BEGINPROOF PROOFBODY ENDPROOF
 PROOFTEXT+15 This ISCLEARE.
-PROOFTEXT See CITATION.
 PROOFTEXT+15 BEGINPROOF LONGPROOF ENDPROOF
 
 THISIDEA idea
@@ -9319,7 +9318,6 @@ BEGINPROOF+15 Suppose the contrary.
 BEGINPROOF+15 We proceed by induction.
 BEGINPROOF+15 We proceed by transfinite induction.
 BEGINPROOF+15 The SCI_IMPORTANTV THISIDEA is that ASSERTION. 
-BEGINPROOF We follow CITATION.
 BEGINPROOF+15 This proof can be omitted on a first reading.
 BEGINPROOF+15 We show the contrapositive.
 BEGINPROOF+15 We begin by considering a simple special case.
@@ -10802,16 +10800,4 @@ AREANOUN probability
 AREANOUN representation theory
 AREANOUN set theory
 AREANOUN topology
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
+
